@@ -1,0 +1,81 @@
+body{
+ background-color:#ffebc6;
+}
+.content{
+  width: 24cm;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1{
+ color: #c1121f;
+ columspan: 3;
+ padding-bottom: 0px;
+ margin-bottom: 0px;
+}
+h3{
+ color:darkred
+}
+
+hr{
+ border: 2px solid black;
+ width: 61%;
+ margin-left: 0;
+ padding-top: 0;
+
+}
+.small{
+ border: 1px dashed black;
+
+}
+
+footer{
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ padding: 3;
+ background: darkred;
+ color: grey;
+ text-align: center;
+ padding: 10px;
+}
+
+#prawa a{
+ padding: 4px;
+ border: 2px solid black;
+ border-radius: 10px;
+}
+#prawa, #lewa{
+ margin: 30px;
+ vertical-align: top;
+ padding-right: 15px;
+ padding-left: 10px;
+}
+
+.stars{
+    padding-left: 15px;
+    border: 0px;
+    text-align: right;
+    columspan: 2;
+}
+
+p{
+ max-width: 400px;
+}
+
+th {
+    padding: 0;
+    margin: 0;
+}
+span{
+ margin-left: 10px;
+}
+
+#job{
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left:5px;
+}
+address{
+    margin-left: 5px;
+}
